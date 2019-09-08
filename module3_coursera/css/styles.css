@@ -1,0 +1,38 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    background-color: #eee2dc;
+    padding: 0;
+}
+
+/* HEADER STYLES */
+
+#header-nav {
+    background-color: #ac3b61;
+}
+
+.navbar-brand {
+    padding: 0;
+}
+
+.navbar-brand h1 {
+    color: white;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+    text-decoration: none;
+}
+
+#nav-list a {
+    color: #eee2dc;
+    text-align: center;
+}
+
+
+/* END OF HEADER STYLES*/s
